@@ -73,7 +73,7 @@ Run command below to view content of "/etc/sysctl.conf":
 (*) Network Statistics
 ( ) Network Status
 
->>Which is/are the function of command dig: <<
+>>Which is/are the function of command dig (Select all that apply): <<
 [ ] To discover network issues
 [*] Searching for a domain name
 [*] To gather and display DNS information 
